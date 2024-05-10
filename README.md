@@ -9,3 +9,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+
+## Each 5 minutes, a notification will pop-up at the right corner
+![Guaiba Notification](https://imgur.com/zFeoRpT.png)
